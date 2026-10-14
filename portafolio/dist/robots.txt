@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://david-hernandez-ti.dave989172.chatgpt.site/sitemap.xml
