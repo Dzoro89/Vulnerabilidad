@@ -1,4 +1,6 @@
-# David Hernández Trinidad
+# David Hernández | Liderazgo TI y Ciberseguridad
+
+Nombre profesional del proyecto: `david-hernandez-ti`.
 
 **Liderazgo TI · Infraestructura · Ciberseguridad · Soluciones MPS**
 
@@ -37,4 +39,6 @@ Cada laboratorio tiene objetivos y evidencias por incorporar. Los planes de prá
 
 El flujo [.github/workflows/pages.yml](.github/workflows/pages.yml) prepara el sitio y sus metadatos para la dirección real de GitHub Pages.
 
-Para la primera publicación, seleccionar **Settings → Pages → Build and deployment → Source: GitHub Actions**. Después, ejecutar **Actions → Publish portfolio to GitHub Pages → Run workflow** sobre `main`.
+La publicación usa **GitHub Actions**. Cada cambio en `main` vuelve a publicar el sitio; la URL, el sitemap y los metadatos se preparan a partir de la configuración real de Pages.
+
+Después de cambiar el nombre del repositorio en **Settings → General → Repository name**, ejecutar **Actions → Publish portfolio to GitHub Pages → Run workflow** sobre `main` para publicar con la nueva dirección.

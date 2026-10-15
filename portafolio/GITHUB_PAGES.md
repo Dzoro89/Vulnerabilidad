@@ -2,11 +2,15 @@
 
 El sitio es estático: HTML, CSS, JavaScript, imágenes y PDF. GitHub almacena el código y GitHub Pages aloja la página web.
 
-## Repositorio propuesto
+## Identidad y estructura
 
-`Dzoro89/Vulnerabilidad`, con rama principal `main`. El sitio se guarda dentro de `portafolio/`.
+Nombre profesional elegido: `david-hernandez-ti`.
 
-La dirección de un sitio de proyecto será `https://Dzoro89.github.io/Vulnerabilidad/` una vez habilitado y desplegado GitHub Pages. También es posible usar un dominio propio.
+Título del sitio: **David Hernández | Liderazgo TI y Ciberseguridad**.
+
+La rama principal es `main` y el sitio se guarda dentro de `portafolio/`. La dirección publicada se obtiene de la configuración real de GitHub Pages durante cada despliegue. También es posible usar un dominio propio.
+
+Al renombrar el repositorio, ejecutar otra publicación desde Actions. El flujo actualiza la URL canónica, la imagen social y el sitemap con la nueva dirección.
 
 ## Publicación
 
